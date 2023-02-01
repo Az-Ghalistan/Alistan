@@ -1,0 +1,74 @@
+#+LATEX_COMPILER: xelatex
+#+TITLE: \texttt{Law regarding Decency in the Public Space}
+#+AUTHOR: \texttt{Revision 0}
+#+DATE: \texttt{4 Rajab 1444}
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [oneside, a4paper, 12pt]
+#+LATEX_HEADER: \usepackage[top=1.25in,bottom=1in,left=1in,right=1in]{geometry}
+#+LATEX_HEADER: \usepackage{fmtcount}
+#+LATEX_HEADER: \newcommand{\nth}[1]{\Ordinalstringnum{#1}}
+#+LATEX_HEADER: \newcounter{__articles}
+#+LATEX_HEADER: \newenvironment{article} {
+#+LATEX_HEADER:   \addtocounter{__articles}{1}
+#+LATEX_HEADER:   \noindent\begin{minipage}{\textwidth}
+#+LATEX_HEADER:   \textbf{Article the \nth{\value{__articles}}.} \\
+#+LATEX_HEADER:
+#+LATEX_HEADER:   \begin{minipage}{.8\textwidth}%
+#+LATEX_HEADER: }{ \\
+#+LATEX_HEADER:   \end{minipage}
+#+LATEX_HEADER:   \end{minipage} \\
+#+LATEX_HEADER: }
+#+LATEX_HEADER: \pagenumbering{gobble}
+#+OPTIONS: toc:nil
+
+\begin{tt}
+\begin{flushright}
+Islamic Socialist Republic of Az-Ğalístan \\
+\end{flushright}
+People's Commissariat for \\
+Internal Affairs, \\
+Public Enlightenment and \\
+State Propaganda \\
+
+\vspace{25pt}
+
+In the name of God, the Merciful, the Compassionate, \\
+
+\vspace{25pt}
+
+\begin{article}
+All men must be covered from the knees to the navel, and should be
+covered up to the neck and the elbows.
+\end{article}
+\begin{article}
+All women having reached puberty must be covered from the ankles to
+the neck, including the arms, and have their hair covered.
+
+Women having not reached puberty must be covered from the ankles to
+the neck.
+\end{article}
+\begin{article}
+Non-mahram men and women must not mix in the public space.
+\end{article}
+\begin{article}
+Indecent acts such as heavy public display of affection, for
+instance kissing,  or sexual intercourse must not be carried
+in the public space.
+\end{article}
+\begin{article}
+Disregard for the aforementionned articles shall be punished
+by a fine ranging from 500ĞD to 50,000ĞD, and from 1 month to
+1 year of imprisonment depending on the gravity of the offence. \\
+\end{article}
+% SIGNATURES
+The People's Commissar for Internal Affairs, \\
+Public Enlightenment and State Propaganda \\
+\vspace{100pt}
+\begin{flushright}
+The President of \\
+the Supreme Islamic \\
+Legislative Assembly \\
+\end{flushright}
+\vspace{100pt}
+The Paramount Leader
+\end{tt}

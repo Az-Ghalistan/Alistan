@@ -1,0 +1,94 @@
+#+LATEX_COMPILER: xelatex
+#+TITLE: \texttt{Declaration of the Paramount Leader of Az-Ğalístan, Amir Ğali Bukerrui}
+#+AUTHOR: \texttt{regarding the Current Situation in Palestine}
+#+DATE: \texttt{10 Rajab 1444}
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [oneside, a4paper, 12pt]
+#+LATEX_HEADER: \usepackage[top=1.25in,bottom=1in,left=1in,right=1in]{geometry}
+#+LATEX_HEADER: \usepackage{fmtcount}
+#+LATEX_HEADER: \newcommand{\nth}[1]{\Ordinalstringnum{#1}}
+#+LATEX_HEADER: \newcounter{__articles}
+#+LATEX_HEADER: \newenvironment{article} {
+#+LATEX_HEADER:   \addtocounter{__articles}{1}
+#+LATEX_HEADER:   \noindent\begin{minipage}{\textwidth}
+#+LATEX_HEADER:   \textbf{Article the \nth{\value{__articles}}.} \\
+#+LATEX_HEADER:
+#+LATEX_HEADER:   \begin{minipage}{.8\textwidth}%
+#+LATEX_HEADER: }{ \\
+#+LATEX_HEADER:   \end{minipage}
+#+LATEX_HEADER:   \end{minipage} \\
+#+LATEX_HEADER: }
+#+LATEX_HEADER: \pagenumbering{gobble}
+#+OPTIONS: toc:nil
+
+\begin{tt}
+In the name of God, the Merciful, the Compassionate, \\
+
+Peace, blessings and mercy of Allah be upon you, \\
+
+Dear citizens of Az-Ğalistan, dear Brothers and Sisters.
+Last week, the Palestinian people were cowardly attacked  by the
+Zionist power. Although the Palestinians heroically retaliated for
+this crime, there is a clear need for an announcement by our
+government. First, we shall explain why we have arrived at such a
+point of violence and misery against the Palestinian people. In 1919,
+Palestinians represented over 90\% of the population on Palestinian
+land, but, in the following years, the United Kingdom, through a
+mandate government, encouraged thousands of Jews to occupy
+Palestine. After years of Jewish invasion and a World War, the Jews
+having invaded Palestine, and using the “extermination” of part of
+their people, proclaimed the unlawful, so-called “State of Israel”,
+with, of course, full and unwavering UN support, spanning most of the
+Palestinian territory, although Jews only represented a small minority
+of the inhabitants. Despite the massive protest of the Palestinian
+people, their State carried on, even invading most of the remaining
+territory in the following years, of course without the so-called
+“international community” expressing any meaningful
+condemnation. Since then, the State of Israel has been following a
+continuous policy of cultural genocide, ethnic apartheid,
+expropriation, theft, murder, massacre. That is, Brothers and Sisters,
+the history of Israel, trampling the rights of the Palestinian people,
+without limits.
+
+The question to now be answered is: what are the solutions to this
+situation? Some pacifists will argue that there is a peaceful
+solution, that they should negotiate, and so on. To them, I'd ask the
+following questions: if you find yourself face to face with the most
+violent, treacherous, vile and dangerous snake, what do you do? Do you
+try to negotiate, bargain, discuss, or do you chop its head with a
+machette? Because this is exactly the situation with the Jews: they
+are so wicked that they doesn't belong anywhere: they colonized
+Europe, then exported themselves to the whole world and now they are
+coming back to the Middle East to colonize some more. That people, the
+Jews, is so intrinsically  wicked that  it falsified and dared to
+refute the book God sent them. The solution appearing as obvious is
+the following: the complete political and civil destruction of the
+State of Israel, the exile of the Jews having emigrated to Palestine
+and the restoration of a Palestinian State.
+
+Our goal is not to launch a campaign of persecution against Jews:
+الله تعالى ordered us not to attack them if they don't attack our
+religion and if they pay the jizya. But if they are Zionists, they
+constitute a direct threat to the safety of the State, of the People
+and of our Allies. In this case, and I hereby take a solemn oath in
+front of الله تعالى , they will be hunted down, tried, and sentenced
+to either death or imprisonment: there will never be any free Zionists
+on the territory of the Islamic Socialist Republic. Zionists are a
+threat to society as a whole, and some governments capitulate in front
+of them: I'm directly targeting Morocco, its government and its King:
+they are traitors and cowards, who accepted a bargain with the Jews to
+“lawfully” invade a territory, they are no better than them: they
+betrayed the Ummah, they betrayed their People, their betrayed their
+religion, shame be on them! Along with these measured, we will
+be sending troops to help the Palestine Liberation Movement and
+proclaim a law allowing us to detain indefinitely any Israeli citizen
+entering our soil. \\
+\vspace{15pt} \\
+Dear Brothers and Sisters, \\
+Citizens of Az-Ğalistan, \\
+Long life to the Islamic Socialist Republic \\
+Long life to the Ğalistan, \\
+Allahu akbar \\
+
+Peace, blessings and mercy of Allah be upon yeah.
+\end{tt}

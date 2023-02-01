@@ -1,0 +1,751 @@
+#+LATEX_COMPILER: xelatex
+#+TITLE: \Huge *AZ İSLÁMAHU SOSİALÍSTİHU CUMHÚRİYEHU \mbox{AZ ĞALÍSTAN} DUSTÚRHU*
+#+AUTHOR:
+#+DATE:
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [twoside,a4paper, 12pt]
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LATEX_HEADER: \usepackage{mfirstuc}
+#+LATEX_HEADER: \usepackage{tabto}
+#+LATEX_HEADER: \usepackage[top=1.25in,bottom=1in,left=1in,right=1in]{geometry}
+#+LATEX_HEADER: \usepackage{fontspec}
+#+LATEX_HEADER: \setmainfont{Amiri}
+#+LATEX_HEADER: \usepackage{fmtcount}
+#+LATEX_HEADER: \newcommand{\nth}[1]{\Ordinalstringnum{#1}}
+#+LATEX_HEADER: \newcommand{\saws}{ ﷺ }
+#+LATEX_HEADER: \newcounter{__articles}
+#+LATEX_HEADER: \newenvironment{article} {
+#+LATEX_HEADER:   \addtocounter{__articles}{1}
+#+LATEX_HEADER:   \noindent\begin{minipage}{\textwidth}
+#+LATEX_HEADER:   \textbf{Article the \nth{\value{__articles}}.} \\
+#+LATEX_HEADER:
+#+LATEX_HEADER:   \begin{minipage}{.8\textwidth}%
+#+LATEX_HEADER: }{ \\
+#+LATEX_HEADER:   \end{minipage}
+#+LATEX_HEADER:   \end{minipage} \\
+#+LATEX_HEADER: }
+#+LATEX_HEADER: \pagenumbering{gobble}
+#+OPTIONS: toc:nil
+
+#+BEGIN_CENTER
+\includegraphics[width=.5\textwidth]{emblem.png} \\
+#+END_CENTER
+
+\clearpage
+
+\begin{flushright}
+﷽
+\end{flushright}
+
+The Provisional Government of the Ğalísani Republic, judging of the
+damage already done to the world by democracy, and taking example from
+the glorious history of the U.S.S.R, the first Caliphates, the
+People's Republic of China and the wise and pious Salaf, has planned
+and designed a regime obeying and enforcing the law dictated by
+God, Praised and Exalted, through his Messenger\saws while also
+guaranteeing the utmost prosperity for the people of Az-Ğalístan
+through the establishment of socialism and the thrive towards
+communism.
+
+Thus, Ğali ibn Ḩakim, Paramount Leader and Commander of the Faithful
+of Az-Ğalístan, along with his provisional government, hereby proclaim
+the organization of the state along with the wisely-and-truthfully
+established rights and duties of the citizens of Az-Ğalístan.
+
+* The Social Order
+
+** The Political Order
+
+\begin{article}
+\quad{}Az-Ğalístan is an Islamic Socialist Republic.
+\end{article}
+\begin{article}
+\quad{}The Islamic Socialist Republic of Az-Ğalístan is a state of the
+dictatorship of the proletariat, which expresses and defends the
+interests of all Muslims and of all the working people.
+
+\quad{}The Islamic Socialist Republic of Az-Ğalístan is based on the common
+faith and submission to the One Almighty God according to the Principles
+and Commandments sent to the Whole of Mankind in the Holy Qur'an, as
+well as in the Sunnah of the Prophet Muhammad​\saws and also on the
+unity of the people in the alliance of the working class with the
+peasantry under the leadership of the working class.
+\end{article}
+\begin{article}
+\quad{}No political organisation or party shall exist on the territory of the
+Islamic Socialist Republic of Az-Ğalístan, as the existence of
+multiple political tendencies inside of a country constitute a
+\textit{fitna}, and therefore contribute to nothing but the creation of
+conflict amongst the Muslim community.
+
+\quad{}In the Islamic Socialist Republic of Az-Ğalístan the leading ideology
+is constituted by the Islamic teachings in the form of the Holy Quran
+revealed by God, Glorious and Exalted, and the Sunnah of the Prophet
+Muhammad\saws whilst the remaining economic and political basis is
+constitued by Marxist-Leninist-Maoist philosophy.  The entire islamic
+and socialist social order is developed on the basis of these
+principles.
+\end{article}
+\begin{article}
+\quad{}The Islamic Socialist Republic of Az-Ğalístan unceasingly develops the
+spread of the One True Religion of Islam as well as the revolution by
+adhering to the Righteous Jihad of Muslims worldwide and to the class
+struggle. The Islamic Socialist Republic also aims at ensuring the
+final victory of the Islamic path over the path of the disbelievers,
+and of the socialist road over the capitalist road, at achieving the
+complete construction of a global Islamic society as well as the
+construction of socialism and communism.
+\end{article}
+\begin{article}
+\quad{}All power in this World and the Hereafter belongs to God, Mighty and
+Majectic. In the Islamic Socialist Republic of Az-Ğalístan, it is
+exercised by the \textit{ğulama}, and also by the Paramount Leader of
+the Islamic Socialist Republic, respectively exercising legislative
+and both executive and legislative power.
+
+\quad{}No one else apart from the organs expressly defined in this
+Constitution, can exercise the sovereignty on the territory of the
+Islamic Socialist Republic.
+\end{article}
+\begin{article}
+\quad{}In all their work, the legislative, executive and all other state organs
+rely on the creative initiative of Muslims and of the masses of the
+working people, drawing them into expressing their ideas, concerns and
+difficulties. All state organs render account before them.
+\end{article}
+\begin{article}
+\quad{}Officials serve the people and render account before them, participate
+directly in work in production, and are paid salaries in fair ratio
+with those of the workers and cooperativists, with the aim of
+preventing the creation of a privileged stratum. The pay ratio is set
+by the law.
+\end{article}
+\begin{article}
+\quad{}The organisation of the State and all the political and economic life
+in the Islamic Socialist Republic of Az-Ğalístan are based on the
+principle of democratic centralism and develop according to it,
+combining the centralized direction with the creative initiative of
+local organs and the masses of Muslims and working people, apart from
+religious matters, in which the already perfect and irrefutable Truths
+descended from God Almighty through his Messenger\saws have no need for
+creative initiative or innovation whatsoever. Through these principles, the
+Islamic Socialist Republic aims to continuously fight against bureaucracy,
+\textit{bidğa} and liberalism.
+\end{article}
+
+** The Economic Order
+
+\begin{article}
+\quad{}The economy of the Islamic Socialist Republic of Az-Ğalístan is a
+socialist economy which is based on the socialist ownership of the
+means of production.
+
+\quad{}In the Islamic Socialist Republic of Az-Ğalistan there are no exploiting
+classes, private property and the exploitation of man by man have been
+liquidated and are forbidden, as God, Praised and Exalted, created all
+human beings equal and free.
+\end{article}
+\begin{article}
+\quad{}State property belongs to the whole people and is the highest form of
+socialist property.
+
+\quad{}The following are property that God Almighty gave to Mankind for them
+to use for all their worldly needs. Thus, in order that no human has
+the power to appropriate for himself the resources that God, Praised
+and Exalted, gave to the whole of Mankind, the following are property
+of the State alone: the land and underground riches, the mines,
+forests, pastures, waters, natural energy resources, the plants,
+factories, machine and tractor stations, the banks, the roads of
+communication and means of rail, water, and air transport, post,
+telegraph, telephone offices, radio and TV stations, cinematography,
+etc.
+
+\quad{}Any other wealth which is created in the State sector or which the
+State gains according to law, is also State property.
+\end{article}
+\begin{article}
+\quad{}Land is granted for social use to the economic enterprises and state
+institutions, to the agricultural cooperatives and social
+organizations, and for the personal use of individual citizens. Land
+is granted for use free of charge.
+
+\quad{}Agricultural land may be used for other purposes only with the consent
+of the respective state organs.
+\end{article}
+\begin{article}
+\quad{}Protection of the land, natural riches, waters and the atmosphere from
+damage and pollution is a duty of the state, of the economic and
+social organizations, and of all citizens.
+\end{article}
+\begin{article}
+\quad{}Cooperativist property belongs to the group of working people of the
+countryside, voluntarily united in the agricultural cooperative for
+the purpose of increasing production and wellbeing, for the
+construction of socialism in the countryside and throughout the
+country.
+
+\quad{}The following are property of the agricultural cooperative: buildings,
+machines, equipment, means of transport, tools and implements,
+livestock for work or production, fruit trees, agricultural and
+livestock products, as well as other means necessary for its activity.
+\end{article}
+\begin{article}
+\quad{}The state supports, the development and strengthening of the
+agricultural cooperatives, their transformation into modern economies
+of large-scale socialist production.
+
+\quad{}Under certain circumstances, the state supports the setting up and
+development of higher type cooperatives, in which it participates
+directly with investments, especially in the main means of production.
+
+\quad{}The transition of the cooperativist property into property of the
+entire people is done in conformity with the objective conditions,
+according to the free will of the cooperativists and with the consent
+of the state.
+
+\quad{}The state works for the narrowing of distinctions between town and
+country.
+\end{article}
+\begin{article}
+\quad{}The personal property of the citizens is recognized and protected by
+the state.
+
+\quad{}Personal property are: income from work and other lawful sources,
+dwelling houses and other objects which serve to meet personal and
+family material and cultural needs.
+
+\quad{}Personal property cannot be used to the detriment of the social
+interest.
+\end{article}
+\begin{article}
+\quad{}When the general interest requires it, certain fixed assets of the
+cooperativist property may be converted into state
+property. The criteria of conversion and the method of payment are
+fixed by the law.
+\end{article}
+\begin{article}
+\quad{}The state organizes, manages, and develops all the economic and
+social life by a unified general plan in order to fulfil the ever
+increasing material and cultural needs of the society, to strengthen
+the independence of the country and defence by constantly increasing
+and perfecting socialist production on the basis of advanced
+technology.
+\end{article}
+\begin{article}
+\quad{}For the administration of means which are property of the whole
+people, the state creates economic enterprises which carry on their
+activity guided by the general interests of the society which is
+expressed in the state plan.
+
+The method of the creation of enterprises and the principles of their
+\quad{}activity are fixed by organic law.
+\end{article}
+\begin{article}
+\quad{}Foreign trade is a monopoly of the state.
+
+\quad{}Domestic trade is mainly carried out by the state, which has every
+activity in this field under its control.
+
+\quad{}The selling prices of the products of the enterprises as well as the
+prices for state purchase of agricultural and livestock products are
+fixed by the state.
+\end{article}
+\begin{article}
+\quad{}The granting of concessions to, and the creation of, foreign economic
+and financial companies and other institutions or ones formed jointly
+with bourgeois and revisionist capitalist monopolies and states, as
+well as obtaining credits from them, are prohibited in the Islamic
+Socialist Republic of Az-Ğalístan.
+\end{article}
+\begin{article}
+\quad{}Work is the foundation of the entire socio-economical life of the
+country. Work is the main source from which every citizen ensures the
+means of livelihood.
+
+\quad{}The state works to narrow the differences between mental and
+physical labour, between work in industry and work in agriculture.
+
+\quad{}The state takes care of, and adopts measures for safety at work
+and the qualification of the working people.
+\end{article}
+\begin{article}
+\quad{}In the Islamic Socialist Republic of Az-Ğalístan, the socialist principle
+``from each according to his ability, to each according to his need'' is
+implemented.
+
+\quad{}Equal pay is guaranteed for equal work.
+
+\quad{}To encourage work for the maximum results, the use of material
+stimuli is combined correctly with moral stimuli, giving priority
+to moral stimuli. The fund of social consumption for the fulfilment of
+the common needs of citizens is increased continually in accordance
+with the possibilities created by the development of the country's
+economy.
+
+\quad{}The state exercises control over the amount of work and
+consumption.
+\end{article}
+\begin{article}
+\quad{}The citiens pay no levies or taxes whatsoever.
+
+\quad{}The taking of an interest in return for a loan, an investment
+or any reason whatsoever is strictly prohibited.
+\end{article}
+
+** Religion, Education and Culture
+
+\begin{article}
+\quad{}The Religion of the State is Islam.
+
+\quad{}Laws of the State shall be mainly based on \textit{şariğa}, as
+defined by the Holy Quran and the Sunnah of the Messenger of God\saws
+and never contradict the former when not based upon it.
+\end{article}
+\begin{article}
+\quad{}The Christian and Jewish minorities in the Islamic Socialist Republic
+enjoy the status of \textit{muğahid}, which protects them against any
+kind of aggression, foreign or domestic. The \textit{muğahid} men are
+required to pay a special tax which amount shall be fixed by the law.
+
+\quad{}Although the presence of religious minorities is tolerated in
+the Islamic Socialist Republic, proselytism, public display or public
+ceremonies of any other religions than the one of Islam is strictly
+forbidden, and no educational organisation promoting a religion other
+than the one of Islam shall exist.
+\end{article}
+\begin{article}
+\quad{}The thorough Islamic and socialist education of all children is a duty
+of the State.
+
+\quad{}Education in the Islamic Socialist Republic of Az-Ğalístan is
+organised and run by the State, open to all and free of charge. Apart
+from religious, linguistic and scientific teachings, combines lessons
+with productive work and physical and military training.
+\end{article}
+\begin{article}
+\quad{}The State protects the cultural heritage of the Country, and upholds
+the development of the socialist and Islamic culture.
+
+\quad{}It supports the development of literature and art following the
+Islamic principles and upholding the idea of socialist realism.
+\end{article}
+\begin{article}
+\quad{}The state works for the development of physical culture and sports on
+the basis of the mass movement for the strengthening of the health of
+the people, especially of the younger generation, for tempering them
+for work and defence.
+\end{article}
+
+
+** Rights and Duties of Citizens
+
+\begin{article}
+\quad{}All male citizens of the Islamic Socialist Republic of Az-Ğalístan
+enjoy the uttermost equality in rights, duties and justice. All men
+and women of the Islamic Socialist Republic of Az-Ğalístan shall
+enjoy fair and equitable treatment, no matter what their ethnicity,
+sex, religion, origins or language are.
+\end{article}
+\begin{article}
+\quad{}Among the citizens, men shall have more religious and social duties
+than women. Thus, in conformity with Islamic teachings, men shall have
+more rights than women; and women shall have lesser rights than men,
+and the government must ensure the low profile and administrative
+inability of all women citizens. The government's supreme goal is to
+establish a safe environment where both men's and women's needs are
+entirely fulfilled.
+\end{article}
+\begin{article}
+\quad{}Every life, human or animal, shall be granted an inviolable and
+inalieanble set of rights protecting security, shelter, dignity,
+property, freedom of belief and life itself, as long as it stays on
+the lands of the Islamic Socialist Republic.
+\end{article}
+\begin{article}
+\quad{}The right to freedom of expression shall not be infringed, except when
+it is used against the common interests of the nation and the truthful
+Abrahamic messages.
+\end{article}
+\begin{article}
+\quad{}No one is to be considered legally guilty, except when the certain
+proof of his guilt is established by a court of law. Innocence shall
+be assumed in all cases prior to or whilst in trial.
+\end{article}
+\begin{article}
+\quad{}The land of the Islamic Socialist Republic of Az-Ğalístan aims to be a
+land of peace for all Muslims. Thus, any Muslim seeking shelter from
+any oppression whatsoever will be welcome in the land of the Islamic
+Socialist Republic.
+\end{article}
+\begin{article}
+\quad{}Women with children have the right not to work in order for them to
+care after their children, while still perceiving their usual salary,
+if any.
+\end{article}
+\begin{article}
+\quad{}Men have a sacred duty of protecting and providing for their family.
+\end{article}
+\begin{article}
+\quad{}All citizens of the Islamic Socialist Republic of Az-Ğalístan, male and female,
+enjoy an equal right to vote as individuals and to do so in the
+uttermost freedom of choice and peace of mind, respectively from the
+age of 16 and 21 years.
+\end{article}
+\begin{article}
+\quad{}All male citizens of the Islamic Socialist Republic of Az-Ğalístan
+have the duty to protect Islam and their Homeland. Betraying one of
+the latter is amongst the greatest of crimes.
+
+\quad{}Military service and the constant training for the defence of Islam,
+the Homeland and socialism are duties for all male citizens from the
+age of 16 years up to 55 years.
+\end{article}
+
+* The Supreme Organs of State Power and Administration
+
+** The Supreme Islamic Legislative Assembly
+
+\begin{article}
+\quad{}The Supreme Islamic Legislative Assembly is the paramount law-making
+and law-vetting body of the Islamic Socialist Republic of Az-Ğalístan.
+\end{article}
+\begin{article}
+\quad{}The Supreme Islamic Legislative Assembly consists of 397 to 437 Sunni
+scholars of the four major \textit{maḑáhib}, with at least a half of
+the Scholars of the Assembly pertaining to the Maliki school of
+\textit{fiqh}.
+
+\quad{}The Supreme Islamic Legislative Assembly is elected by the
+Presidium of the All Ğalístan Ğulama Organisation. The details of
+operation of the All Ğalístan Ğulama Organisation and its Presidium
+shall be fixed by organic law.
+
+\quad{}The Supreme Islamic Legislative Council is renewed by thirds
+every three years, thus for a term of nine years.
+
+\quad{}A candidate to a seat in the Supreme Islamic Legislative
+Council shall in no occasion have familial, relational or financial
+ties to members of the Council of People's Commissars or to the Paramount Leader.
+\end{article}
+\begin{article}
+\quad{}If the General Council of the All Ğalístan Ğulama Organisation judges
+a member of the Supreme Islamic Legislative Assembly as unable to
+make law or to render opinions in accordance with the Islamic
+Principles, this member shall be removed from office if the majority
+of the General Council of the All Ğalístan Ğulama Organisation votes
+against him, in which case he is removed from office and also banned
+from the All Ğalístan Ğulama Organisation for a period of time of at
+least five years.
+\end{article}
+\begin{article}
+\quad{}It is strictly forbidden for any member of the Supreme People's Şura,
+the Council of People's Commissars or the Paramount Leader, or anyone
+representing them, to penetrate in the buildings or to have any
+exchange of any nature with members of the Supreme Islamic Legislative
+Assembly.
+
+\quad{}The sessions of the Supreme Islamic Legislative Council are to
+can witnessed by any citizens of the Islamic Socialist Republic of
+Az-Ğalístan and to be recorded on camera for publication to the
+citizens of the Islamic Socialist Republic.
+\end{article}
+\begin{article}
+\quad{}A law is considered passed if it is upheld by at least two-thirds of
+the Supreme Islamic Legislative Assembly. The vote is to be held by
+open ballot.
+
+\quad{}The Supreme Islamic Legislative Assembly is allowed to amend
+laws before validating them. To do so, the Supreme Islamic Legislative
+Assembly is to be split into groups of expertise for each major
+topic. The organization of the aforementioned groups is to be set by
+organic law. Each amendment is to be voted indivudally before its
+inclusion in the law, with the same rules as for the law itself.
+
+\quad{}If a law has been amended by the Supreme Islamic Legislative
+Assembly, the Paramount Leader can either revise it and send it back
+to the Supreme Islamic Legislative Assembly or accept it as-is.
+\end{article}
+\begin{article}
+\quad{}A vote is to be held after each renewal of the Supreme Islamic
+Legislative Assembly to elect a President, who will both organise
+debate and voting in the Supreme Islamic Legislative Assembly and
+represent it in front of the Council of People's Commissars. He does not vote on
+laws or amendments. He shall bear the title of People's Commissar on Fiqh
+Affairs.
+\end{article}
+
+** The Supreme People's Şura
+
+\begin{article}
+\quad{}The Supreme People's Şura links the people of Az-Ğalístan with its
+government.
+\end{article}
+\begin{article}
+\quad{}The Supreme People's Şura consists of one delegate for every
+county of 10,000 inhabitants.
+
+\quad{}The delegates of the Supreme People’s Şura are elected
+for a term of two years by direct, universal and secret suffrage by
+all the citizens of a county.
+
+\quad{}They are to be elected amongst an electoral pool of Muslim men of at least 21 years of age.
+\end{article}
+\begin{article}
+\quad{}The Supreme People's Şura has no legislative power: its sole role is
+to bring up the concerns and ideas of the people to the central
+government.
+\end{article}
+\begin{article}
+\quad{}The delegates of the people are elected on an imperative
+mandate: if the delegate does not represent the ideas and the
+needs of its electors correctly, the people can remove him.
+
+\quad{}A removal vote occurs if at least one-third of the electing
+people sign a motion to proceed to a new election. If the
+delegate is so removed, his substitute will not see his term
+length reset.
+\end{article}
+\begin{article}
+\quad{}The Supreme People's Şura shall meet no less than 28 times a year and
+no more than 122 times a year.
+\end{article}
+\begin{article}
+\quad{}The Supreme People's Şura shall elect a reporter every six
+months. He shall take account of the concerns and ideas brought up and
+voted by the delegates and recount them to the Concil of
+People's Commissars at least once every two weeks.
+\end{article}
+\begin{article}
+\quad{}The concrns and ideas brought up by the delegates shall be
+submitted to a vote according to their scope. If they are relative to a situation in
+the county, they shall be directly accepted; if they are relative to a
+situation in a uilája, all delegates from this uilája shall vote
+to decide whether or not it should be sent to the central government;
+if they are relative to a situation in the whole country, the entire
+şura shall do so.
+\end{article}
+
+** The Paramount Leader
+
+\begin{article}
+\quad{}The first Paramount Leader of the Islamic Socialist Republic of
+Az-Ğalístan shall be Ğali ibn Ḩakim.
+\end{article}
+\begin{article}
+\quad{}The Paramount Leader bears the title of ``Amírhu az MuImínújnhu az
+Ğalistan'' (Commander of the Faithful of Az-Ğalistan).
+\end{article}
+\begin{article}
+\quad{}The term of the Paramount Leader shall end at the event of his death or
+his removal by the Supreme Islamic Legislative Assembly with a
+majority of two-thirds of the votes.
+\end{article}
+\begin{article}
+\quad{}The Paramount Leader is renewed by the Supreme Islamic Legislative
+Assembly amongst an electoral pool named by the latter.
+
+\quad{}The aforementioned vote shall be held by secret but recorded ballot, which
+shall be kept secret for a duration of 35 years.
+
+\quad{}The electoral pool shall only consist of Muslim males of at
+least 25 years of age.
+
+\quad{}If the late Paramount Leader was not removed from office and
+has male descendants, the Supreme Islamic Legislative Assembly shall
+first vote for or against the replacement of the late Paramount Leader
+by his male descendants, in the order of succession.
+\end{article}
+\begin{article}
+\quad{}The Paramount Leader shall name a Council of People's Commissar. The list of
+People's Commissariats is to be made and updated by the Paramount Leader.
+\end{article}
+\begin{article}
+\quad{}The Paramount Leader proclaims laws after they are vetted by the
+Supreme Islamic Legislative Assembly.
+
+\quad{}The Paramount Leader has the right to refuse laws, but can in
+no event proclaim a law that was deemed untrue to the Islamic
+principles or this Constitution by the Supreme Islamic Legislative
+Assembly.
+
+\quad{}If the Paramount Leader refuses to proclaim a law and, by doing
+saw, violates the Islamic principles or those of this constitution in
+the eyes of three-fourths of the Supreme Islamic Legislative Assembly,
+the Paramount Leader is obligated to proclaim the law.
+\end{article}
+
+
+** The Supreme People's Court
+
+\begin{article}
+\quad{}The Supreme Court of the Islamic Socialist Republic of Az-Ğalístan
+consists of nine male Justices.
+
+\quad{}Each Justice is nominated for life by the Paramount Leader, and
+vetted by the Supreme Islamic Legislative Assembly.
+
+\quad{}If the Supreme Court deems a judgment or a law as
+unconstitutional, the judgment is broken and the Supreme Islamic
+Legislative Assembly is required to edit the law in a manner fitting
+the constitution.
+\end{article}
+\begin{article}
+\quad{}No Justice has a right to abstention.
+
+\quad{}A Justice can only be removed from office if he is found g
+uilty of a crime by a Court of Law.
+\end{article}
+
+* The Local Organs of State Power and Administration
+
+** The Division of Ğalístani Land
+
+\begin{article}
+\quad{}The territory of the Islamic Socialist Republic of Az-Ğalístan is
+divided between five uilájatun, named after their capital city: Setíf,
+Borc Buğarreric, Becaja, Ras Al-Ued and Ğaijn hIadraI.
+\end{article}
+\begin{article}
+\quad{}Each uilája is divided between counties of 10,000 inhabitants each,
+each country containing one municipality for each town of more than
+2,000 inhabitants it contains.
+
+\quad{}A town exceding 10,000 inhabitants shall be virtually
+constituted of counties of a dozen thousand inhabitants each.
+\end{article}
+\begin{article}
+\quad{}The uilájatun, counties and municipalities take decisions at their own
+scale for the well-being of their people. In no occasion shall these
+decisions disobey the laws of the Islamic Socialist Republic.
+\end{article}
+\begin{article}
+\quad{}The municipalities are ruled by mayors, elected by direct universal
+suffrage for a term of six years amongst an electoral pool of Muslim
+males of at least 25 years of age.
+\end{article}
+\begin{article}
+\quad{}The uilájatun are ruled by uáliún, which are elected by the mayors of
+the municipalities constituting the counties of the uilája amongst an
+electoral pool of those same mayors, for a term of seven years.
+
+\quad{}The uáliún have an observer seat in the Council of People's Commissar.
+
+\quad{}The counties of a uilája are ruled by counts appointed by the
+uáli and are advised by a council constituted of the mayors of the
+municipalities of the county.
+\end{article}
+
+** The Local People's Şuratun
+
+\begin{article}
+\quad{}The uáliún of the provinces are to set up a local şura at least once a
+month to listen to the concerns and ideas of the citizens under their
+governance.
+\end{article}
+
+** The People's Courts
+
+\begin{article}
+\quad{}The people's courts are the organs which administer justice.
+
+\quad{}The people's courts protect the islamic and socialist juridical order
+and fight for prevention of crimes.
+
+\quad{}Court organization, trial procedure as well as the acceptability and
+the nature of evidence are defined by organic law.
+\end{article}
+\begin{article}
+\quad{}The uáliún name judges for each county. Each county shall have at
+least two judges.
+\end{article}
+\begin{article}
+\quad{}If one finds the decision of the court unjust, he or she can appeal
+this decision if front of another court. If the convicted still judges
+that he was unfairly judged, he can bring up his case to the Supreme
+People's Court of the Islamic Socialist Republic of Az-Ğalístan.
+\end{article}
+
+* The Defence of the Country
+
+\begin{article}
+\quad{}The State safeguards the victories of the people's revolution, the
+islamic order, the socialist construction and defends the freedom,
+national independence and territorial integrity of the Islamic
+Socialist Republic of Az-Ğalístan.
+
+\quad{}The territory of the Islamic Socialist Republic of Az-Ğalístan
+is inalienable and its borders are inviolable.
+\end{article}
+\begin{article}
+\quad{}The People's Army, as the main force for the defence of the Homeland,
+is the army of the people and serves the people.
+
+\quad{}The Armed Forces are led by the Paramount Leader of the Islamic
+Socialist Republic.
+\end{article}
+\begin{article}
+\quad{}No one has the right to sign or accept, in the name of the Islamic
+Socialist Republic of Az-Ğalístan, the capitulation or occupation of
+the country. Any such act is condemned as treason to the country.
+\end{article}
+\begin{article}
+\quad{}The establishment of foreign military bases and the stationing of
+foreign troops in the territory of the Islamic Socialist Republic of
+Az-Ğalístan is prohibited.
+\end{article}
+
+* The Language and Symbols of the Islamic Socialist \mbox{Republic}
+
+\begin{article}
+\quad{}The languages of the Islamic Socialist Republic of Az-Ğalístan are
+English and Ğalístani. English language shall be used in all official
+documents.
+
+\quad{}Since the language of the Qur'an and of the sayings and
+teachings of the Prophet Muḩammad\saws is Arabic, it must be taught
+after primary level. Vernacular Algerian Arabic is also recognized as
+a minority language of the Islamic Socialist Republic.
+\end{article}
+\begin{article}
+\quad{}The official calendar of the Islamic Socialist Republic takes as its
+point of departure the beginning of the migration of the Last Prophet
+of Islam\saws from the Holy City of Makkah. The lunar version of this
+Hijri calendar shall be used. The official weekly holiday is friday.
+\end{article}
+\begin{article}
+\quad{}The flag of the Islamic Socialist Republic of Az-Ğalístan is
+constitued of two opposed green and red large horizontal stripes, in
+the middle of which is a thin white stripe. The center of the flag is
+charged with a white circle, itself charged with a red sun bearing an
+Arabic calligraphy of the sentence ``There is no deity but God and
+Muhammad is His messenger'' in a white colour.
+\end{article}
+\begin{article}
+\quad{}The emblem of the Islamic Socialist Republic of Az-Ğalistan
+constitutes of the Eagle of Salaḩ Al-Dín, holding onto his chest a
+shield with the flag of the Islamic Socialist Republic, and between
+his claws a ribbon with the Shahada inscribed in a Kufi script. It is
+surrounded by two golden sheaves of wheat on its sides, a quarter of
+a black gear bearing the inscription "Islamic Socialist Republic of
+Az-Ğalístan" in the Ğalístani language at the south, and a golden sun
+bearing a calligraphy of the Shahada in Arabic at the north.
+\end{article}
+\begin{article}
+\quad{}The capital of the Islamic Socialist Republic of Az-Ğalístan is Setíf.
+\end{article}
+
+* Amending the Constitution
+
+\begin{article}
+\quad{}Proposals for amendments to the constitution can be presented by the
+President of the Supreme Islamic Legislative Assembly, the Council of
+People's Commissars, or by two-fifths of the members of the Supreme
+Islamic Legislative Assembly.
+
+\quad{}Approval of amendments to the constitution are done by the
+Supreme Islamic Legislative Assembly by a majority of two-thirds of
+all the members.
+\end{article}
+
+\newpage
+$_{ }$

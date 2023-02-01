@@ -1,0 +1,46 @@
+#+LATEX_COMPILER: xelatex
+#+TITLE: \texttt{Decree defining the People's Commissariats of the Islamic Socialist Republic of Az-Ğalístan}
+#+AUTHOR: \texttt{Decree no. 0001}
+#+DATE: \texttt{4 Rajab 1444}
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [oneside, a4paper, 12pt]
+#+LATEX_HEADER: \usepackage[top=1.25in,bottom=1in,left=1in,right=1in]{geometry}
+#+LATEX_HEADER: \usepackage{fmtcount}
+#+LATEX_HEADER: \newcommand{\nth}[1]{\Ordinalstringnum{#1}}
+#+LATEX_HEADER: \newcounter{__articles}
+#+LATEX_HEADER: \newenvironment{article} {
+#+LATEX_HEADER:   \addtocounter{__articles}{1}
+#+LATEX_HEADER:   \noindent\begin{minipage}{\textwidth}
+#+LATEX_HEADER:   \textbf{Article the \nth{\value{__articles}}.} \\
+#+LATEX_HEADER:
+#+LATEX_HEADER:   \begin{minipage}{.8\textwidth}%
+#+LATEX_HEADER: }{ \\
+#+LATEX_HEADER:   \end{minipage}
+#+LATEX_HEADER:   \end{minipage} \\
+#+LATEX_HEADER: }
+#+LATEX_HEADER: \pagenumbering{gobble}
+#+OPTIONS: toc:nil
+
+\begin{tt}
+In the name of God, the Merciful, the Compassionate, \\
+
+The Paramount Leader of the Islamic Socialist Republic of Az-Ğalístan
+defines the list of the People's Commissariats as follows:
+
+\begin{itemize}
+\item People's Commissariat for Foreign Affairs
+\item People's Commissariat for Culture and Education
+\item People's Commissariat for Fiqh Affairs (as defined by the
+  Constitution)
+\item People's Commissariat for Work and Socialist Construction
+\item People's Commissariat for Food, Health and Agricultural
+  Transformation
+\item People's Commissariat for Internal Affairs, Public Enlightenment and
+  State Propaganda
+\item People's Commissariat for War and Defence
+\item People's Commissariat for Economy and National Treasure
+\end{itemize}
+\vspace{50pt}
+% Signatures
+The Paramount Leader
+\end{tt}
