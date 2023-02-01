@@ -10,7 +10,7 @@ But still though, thousands of "advanced" civilisations still wonder what's the 
 
 ## Where does the necessity of happiness come from ?
 
-In an everyday basis, I use happiness as an indicator of good doing or wrongdoing : often, I do feel good while doing something that's either directly or indirectly beneficial to me, and I do feel bad while doing something that could destroy one of my goals. But sometimes, a blind pursuit of happiness can lead me to want for myself what's harmful, and erroneously reject what's beneficial. Greek philosopher Epicurus approached a similar idea in Letter to Menoeceus.
+In an everyday basis, some people use happiness as an indicator of good doing or wrongdoing : often, they do feel good while doing something that's either directly or indirectly beneficial to them, and they do feel bad while doing something that could destroy one of their goals. But sometimes, a blind pursuit of happiness can lead people to want for themselves what's harmful, and erroneously reject what's beneficial. Greek philosopher Epicurus approached a similar idea in Letter to Menoeceus.
 
 Allah says in Al-Baqara (2:216)
 > Fighting has been made obligatory upon you believers, though you dislike it. Perhaps you dislike something which is good for you and like something which is bad for you. Allah knows and you do not know.
@@ -111,3 +111,4 @@ Allah says in At-Tawba (51)
 
 ## Conclusion
 In conclusion, we can say that, in order to attain happiness and satisfaction in their lives, both men and women should become aware of natural goals that emerge from their respective gender; goals which were deduced in the observation of human behavior through history.
+
