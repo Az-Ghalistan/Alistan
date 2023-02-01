@@ -110,3 +110,6 @@ Allah says in At-Tawba (51)
 
 ## Conclusion
 In conclusion, we can say that, in order to attain happiness and satisfaction in their lives, both men and women should become aware of natural goals that emerge from their respective gender; goals which were deduced in the observation of human behavior through history.
+These gender-specific goals ultimately lead to the recognition of the eternal power and mercy of God, which seems to be the most secure way of all in order to fulfill a continuous, opposed need for satisfaction.
+Men shall hope for God's mercy, and women shall hope for His protection and assurance. God fills in the weaknesses of his creatures by offering them what they don't have, allowing them to live a happy, full life.
+And Allah knows best !
