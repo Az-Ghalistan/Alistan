@@ -22,7 +22,7 @@ Allah says in Al-Baqara (2:256)
 > [...] So whoever renounces false gods and believes in Allah has certainly grasped the firmest, unfailing hand-hold. And Allah is All-Hearing, All-Knowing.
 
 For example, one could ask "how is *az-zina* wrong ?" or "where is the wrong in consuming drugs, doing *ar-riba*, or even wearing silk ?".
-At first glance, these actions do not appear to harm anyone. And demonstrating "why they do" is a challenge between faith and temptation. What happens when someone is deprived of faith ? We is not willing to demonstrate why such actions could be harmful to him (or society), because his desires took over his life : ultimately, he concludes that such actions are actually not harmful to anyone.
+At first glance, these actions do not appear to harm anyone. And demonstrating "why they do" is a challenge between faith and temptation. What happens when someone is deprived of faith ? He is not willing to demonstrate why such actions could be harmful to him (or society), because his desires took over his life : ultimately, he concludes that such actions are actually not harmful to anyone.
 
 Ma'alim fi al-Tariq, Sayid Qutb (1964)
 > [...] the American way of life is based on carnal desires and primitive needs. No matter how much Americans have attained in terms of science and technology, they still behave like animals, with their primitive and barbaric tendencies.
@@ -49,12 +49,11 @@ They find themselves happy when they know their incredible capacity has been mad
 In Plato's Symposium, a similar idea is introduced by Diotima of Mantinea, a greek philosopher
 > There is a certain age at which human nature is desirous of procreation-procreation [...]; for conception and generation are an immortal principle in the mortal creature.
 
-Before trying to reach happiness and satisfaction, men should start fixing an ideal for themselves. Something bigger than themselves, that they are truly eager to achieve.
+Before trying to reach happiness and satisfaction, men should start fixing an ideal for themselves. Something bigger, that they are truly eager to achieve.
 
 However, such an ideal can become a cause for deception. For instance, it is generally a bad idea to hold wealth and power as your ultimate goal, because the scale keeps upscaling : you might never find yourself satisfied of what you have, because you have based your life on the pursuit of something which is totally immediate.
 
 Allah says in At-Takathur (102:1-2)
-
 > Competition for more gains diverts you from Allah, until you end up in your graves.
 
 Instead, Allah (glory to Him) offers us the non-exhausting, rational ideal of reaching his mercy in both the dunya and the hereafter.
@@ -62,13 +61,13 @@ Instead, Allah (glory to Him) offers us the non-exhausting, rational ideal of re
 Allah says in Yunus (10:26)
 > Those who do good will have the finest reward and even more. Neither gloom nor disgrace will cover their faces. It is they who will be the residents of Paradise. They will be there forever.
 
-Such an objective is a perfectly sane and durable way of becoming happy, as it offers the continuous hope of something greater, officially guaranteed by the promise of God, thus letting the brain simmer down at the sight of a future of eternal, retributed success.
-Also, exploring the promise of God is a shake-proof ideal, as it never dies as soon as your faith lives, whatever bad may happen in your life : it is unbound to any material, temporal or logical ties.
+Such an objective is a perfectly sane and durable way of becoming happy, as it offers the continuous hope of something greater, officially guaranteed by the promise of God; thus letting the brain simmer down at the sight of a future of eternally retributed success.
+Also, exploring the promise of God is an indismissable ideal, as it never dies as long as your faith lives, whatever bad may happen in your life - it is unbound to any material, temporal or logical ties. God's mercy is eternally available.
 
 Allah says in Yunus (10:55)
 > Surely to Allah belongs whatever is in the heavens and the earth. Surely Allah’s promise is always true, but most of them do not know.
 
-However, some people argue that such a promise make men lazy and unproductive. Indeed, it makes men lazy and unproductive in sin and futile enjoyments of the daily life, and encourages them to work hard for their retribution instead, making good deeds and helping society, overall becoming grateful individuals whose place is well deserved.
+However, some people argue that such a promise could turn men into lazy and unproductive individuals. Indeed, it makes men unproductive in sin and futile enjoyments of the daily life, and instead encourages them to work hard for their retribution, making good deeds and helping society; overall becoming grateful individuals whose place is well deserved.
 
 Narrated Ka'ab bin Ujrah (may Allah be pleased with him) (Jami' at-Tirmidhi)
 Muhammad ﷺ said:
@@ -77,18 +76,18 @@ Muhammad ﷺ said:
 ## Happiness for women
 
 Women are individuals of incredible vulnerability. They are bound to the assistance and judgement of others : there is no such thing as an independent woman.
-Women are naturally weak and live to seek protection. They are eager to lead a protected life, brought up by a man of exploding capacity.
-Women are fundamentally excited by the very idea of beneficing (living under the protection) of something that's more capable than them: that is their natural, default ideal.
+Women are naturally weak and live to seek protection. They are eager to lead a protected life, brought up by a man of high capacity.
+Women are fundamentally excited by the very idea of beneficing (by living under the protection) of something that's more capable than them: that is their natural, default ideal.
 
-Of course some women try to escape the system, thriving to totally assume themselves, but these usually do not live at the fullest, as they unnaturally bend to fit into the deviant, happiness-oriented social suggestions offered by men whose desire is to trick them.
-Many of these men are capitalists, high-ranked individuals, of course : to better control a people, enslave it first by destabilizing its women, thus destroying families, thus destabilizing its youth... thus making it easier to change the society's core values, again bending it to fit into the most lucrative economical models.
+Of course some women try to escape the system, thriving to "assume themselves", but these usually do not live at the fullest, as they unnaturally bend to fit into the deviant, happiness-oriented social suggestions offered by men whose desire really is to trick them.
+Many of these men are capitalists, high-ranked individuals, who know that in order to have better control over a people, you should enslave it first by destabilizing its women, thus destroying its families, thus destabilizing its youth, making it easier to change the society's core values, again bending it to fit into the most lucrative economical models.
 
 Wise women should be aware of their weakness. Here is the very starting point for them to lead a continuously happy life. 
 
 Let's find a way to make women happy. We know they intrinsically love to live under the protection of a bigger force.
-In the western world, this bigger force is dug from attention from social media, men, and money. Western women seek refuge in the place they hold in the society they live in, pushed by their beauty. In other words, western women get their daily life happiness from the desire of men who live around them: a widespread phenomenon in the United States, where they even gave it a name, they call it "simping".
-This is a problem for three main reasons. First, it starts an unfair rivalry between women, where some are pushed to the top of the scene and others, less beautiful, are left back. Also, it naturally creates a system where the most loved women are the most beautiful ones, neglecting their reason and integrity as individuals, converting them into mere objects rivalizing one another.
-This leads us to the third problem, which is the condition of these very women when they get older, as their beauty slowly disappears. Now, they haven't got any children and haven't got into any unique relation, as they could simply live under the sexual urges of men around them. Now their power is thrown out and they are condemned to live sad and lonely.
+A problem arises : in the western world, this bigger force has been found ! It is currently dug from attention from social media, care from random men, and a dream of infinite money. Western women seek refuge in the place they hold in the society they live in, pushed by their beauty. In other words, western women get their daily life happiness from the desire shown by men who live around them: a widespread phenomenon in the United States, where they even gave it a name: "simping".
+This is a problem for three main reasons. First, it starts an unfair rivalry between women, where some are pushed to the top of the game and others, less beautiful, are left back. Secondly, it naturally creates a system where the most considered women are the most beautiful ones; neglecting their entire reason and integrity as human beings, converting them into mere objects in rivalry with each other.
+This leads us to the third problem, which is the condition of these very women when they get older, as their beauty slowly disappears. Now, they haven't got any children (what was the good in it?) and haven't engaged in any unique relationship - as they could simply live under the sexual urges of men around them. Now their power is thrown out of the window, as they are unfortunately condemned to live sad and lonely.
 
 By criminalizing *az-zina* in our society and forcing women to hide their traits, we are preventing women from converting themselves into mere objects. Whether it is men or women's fault, whether you can make them believe they can change their nature or not: at the end of the day, men are men deep in themselves, and if such a system publicly exists, however men are educated, they will eventually feed it.
 Criminalizing indecency is the only way of saving our society from poisoning itself. Also, we have written a declaration on public decency.
@@ -111,4 +110,3 @@ Allah says in At-Tawba (51)
 
 ## Conclusion
 In conclusion, we can say that, in order to attain happiness and satisfaction in their lives, both men and women should become aware of natural goals that emerge from their respective gender; goals which were deduced in the observation of human behavior through history.
-
